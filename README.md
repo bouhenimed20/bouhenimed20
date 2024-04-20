@@ -7,7 +7,6 @@
 
 - 📫 How to reach me **contact@bouhenimohamed.site**
 
-- ⚡ Fun fact **Yeah I'm funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
