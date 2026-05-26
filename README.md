@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Bouheni Mohamed</h1>
-<h3 align="center">A passionate Cloud & DevOps Engineering Student</h3>
-
-- 👨‍💻 All of my projects are available at [https://bouhenimohamed.site/](https://bouhenimohamed.site/)
+<h3 align="center">A passionate Cloud & DevOps Engineer</h3>
 
 - 💬 Ask me about **Cloud Computing, Development, Databases, Systems**
 
-- 📫 How to reach me **Mohamed.bouheni@esprit.tn**
+- 📫 How to reach me **Mohamed.bouheni@outlook.com**
 
 
 <h3 align="left">Connect with me:</h3>
