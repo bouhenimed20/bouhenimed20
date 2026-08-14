@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bouheni Mohamed</h1>
 <h3 align="center">A passionate Cloud & DevOps Engineer</h3>
 
-- 💬 Ask me about **Cloud Computing, Development, Databases, Systems, Graphic Designs, Leads & sales**
+- 💬 Ask me about **Cloud Computing, Development, Databases, Systems, Kubernetes ,SEO/GEO**
 
 - 📫 How to reach me **Mohamed.bouheni@outlook.com**
 
